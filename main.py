@@ -14,7 +14,7 @@ broadcast_message_content = {}
 admin_states = {}  # Admin holatini saqlash uchun qo'shildi
 
 # Admin ID va guruh ID
-ADMIN_ID = 6179552075
+ADMIN_ID = 1938384946
 ADMIN_CHAT_ID = "@farnexdev"
 
 # Maxsus link
