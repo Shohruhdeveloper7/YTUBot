@@ -1,7 +1,7 @@
 import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = "7924814725:AAE2c9LAKjfoVEblPSzdO12U8QVWd6ARXic"
+TOKEN = "7858452797:AAFe1FUWWC9c67s1DlKfLauADLaxT8oBb3s"
 bot = telebot.TeleBot(TOKEN)
 
 # Holatlar
@@ -15,7 +15,7 @@ admin_states = {}  # Admin holatini saqlash uchun qo'shildi
 
 # Admin ID va guruh ID
 ADMIN_ID = 1938384946
-ADMIN_CHAT_ID = "@farnexdev"
+ADMIN_CHAT_ID = "https://t.me/yoshtadbirkoruniver"
 
 # Maxsus link
 SPECIAL_LINK = "https://t.me/yoshtadbirkor_university/1073"
